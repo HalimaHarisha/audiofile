@@ -173,10 +173,15 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ## PLAY
 <img width="1255" height="775" alt="image" src="https://github.com/user-attachments/assets/cac57c5f-ffa7-4ebe-bec6-2fa0e9be1e2a" />
+
 ## PAUSE
+
 <img width="1259" height="782" alt="image" src="https://github.com/user-attachments/assets/3119e15a-0bb2-46f4-b4bf-1e91e4ffb626" />
+
 ## STOP
+
 <img width="1256" height="785" alt="image" src="https://github.com/user-attachments/assets/cfca42e2-a164-4e58-9e02-20306ac5b8f4" />
+
 
 
 
